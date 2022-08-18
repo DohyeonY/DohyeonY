@@ -29,6 +29,7 @@
                                               Have a great day!!
     
     <hr>
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj={ydh1509})](https://solved.ac/{ydh1509})
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj={ydh51216@gmail.com})](https://solved.ac/{ydh51216@gmail.com})
+    
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=ydh1509)](https://solved.ac/ydh1509)
+
 
