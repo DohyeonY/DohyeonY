@@ -104,3 +104,14 @@
 > QA 하면서 발견한 어려움은 무엇이었는지
 > *atomic 패턴에 대해 어떻게 생각하는지 //*
 > 기여도에 대한 설명
+
+
+호이스팅의 개념
+this 관련 질문
+자바스크립트의 비동기 처리방식
+브라우저 작동 원리(렌더링 엔진 관련)
+SSR vs CSR
+CORS 관련 질문
+React lifecycle
+Virtual Dom
+stack vs queue
