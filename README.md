@@ -16,7 +16,7 @@
 
 - 👋 Hi, I’m @DohyeonY
 - 👀 I’m interested in everthing
-- 🌱 I’m currently learning Python & Html & CSS
+- 🌱 I’m currently learning REACT & JS & TS
 
 
                                                     
@@ -25,11 +25,7 @@
    
 
 
-# 💪Skills
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ydh1509)](https://solved.ac/ydh1509/)
 
-### I don't have any badges and skills yet !! 😭
-### More will be added next time you visit !! 😉
 
 
