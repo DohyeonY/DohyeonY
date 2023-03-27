@@ -22,10 +22,4 @@
                                                     
                                               Have a great day!!
     
-   
-
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ydh1509)](https://solved.ac/ydh1509/)
-
-
 
