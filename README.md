@@ -16,7 +16,7 @@
 
 - 👋 Hi, I’m @DohyeonY
 - 👀 I’m interested in everthing
-- 🌱 I’m currently learning REACT & JS & TS
+- 🌱 I’m currently learning REACT & JS & TS & RN & Flutter(so many...)
 
 
                                                     
