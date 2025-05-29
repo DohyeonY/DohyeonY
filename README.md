@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <a align="center" href="https://hits.seeyoufarm.com"><img align="center" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDohyeonY&count_bg=%23FFC8EF&title_bg=%23FF5757&icon=waze.svg&icon_color=%23FFF9F9&title=%EC%96%BC%EB%A7%88%EB%82%98+%EB%93%A4%EC%96%B4%EC%99%94%EC%A7%80%3F&edge_flat=false"/></a>
+   <img align="center" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDohyeonY&count_bg=%23FFC8EF&title_bg=%23FF5757&icon=waze.svg&icon_color=%23FFF9F9&title=%EC%96%BC%EB%A7%88%EB%82%98+%EB%93%A4%EC%96%B4%EC%99%94%EC%A7%80%3F&edge_flat=false"/>
 </div>
 
 </br>
